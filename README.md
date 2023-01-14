@@ -9,7 +9,7 @@
              src="https://github-readme-stats.vercel.app/api?username=jailtoncruz&show_icons=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true" 
              alt="Estátisticas Gerais" />
 
-        <img align="right" 
+        <img align="left" 
              src="https://github-readme-stats.vercel.app/api?username=jailtoncruz&show_icons=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true" 
              alt="Estátisticas Gerais" />
     </p>
