@@ -3,6 +3,15 @@
 <h1>Jailton Cruz</h1>
 <p>Desenvolvedor de Software Full-Stack.</p>
 
+<details>
+    <summary>Minhas Estátisticas no Github</summary>
+    <p>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=carlos3g&theme=radical&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
+
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&username=carlos3g&theme=radical" alt="Techs utilizadas nos projetos">
+    </p>
+</details>
+
 <div>
         <img align="left" 
              src="https://github-readme-stats.vercel.app/api?username=jailtoncruz&show_icons=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true" 
